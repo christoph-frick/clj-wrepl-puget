@@ -17,3 +17,5 @@ Add in your *wrepl* config:
                                     :class-delimiter [:magenta]
                                     :class-name [:bold :magenta]}}}
 ```
+
+For all config options see the [`puget.printer` ns doc-string](https://github.com/greglook/puget/blob/master/src/puget/printer.clj)
